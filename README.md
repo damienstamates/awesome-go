@@ -428,6 +428,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [dbbench](https://github.com/sj14/dbbench) - Database benchmarking tool with support for several databases and scripts.
 * [go-mysql](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 * [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync your MySQL data into Elasticsearch automatically.
+* [grammes](https://github.com/northwesternmutual/grammes) - Gremlin query builder for Graph Databases.
 * [kingshard](https://github.com/flike/kingshard) - kingshard is a high performance proxy for MySQL powered by Golang.
 * [myreplication](https://github.com/2tvenom/myreplication) - MySql binary log replication listener. Supports statement and row based replication.
 * [octillery](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
